@@ -1,2 +1,4 @@
-# FOlariaga-github-prepcourse-henry
-mi primer repositorio de github
+# AAAAAA
+
+Esta es una prueba de como crear un repositorio desde git hub y clonarlo a mi escritotio local
+
